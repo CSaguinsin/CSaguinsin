@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Carl Saguinsin, A Full Stack Web Developer
+# Hi there 👋 I'm Carl Saguinsin, A Full Stack Web Developer & Aspiring Indie Hacker
 A passionate Full Stack Web Developer currently working at PocketDevs. With a keen interest in crafting beautiful and functional web experiences, I thrive on utilizing a diverse range of technologies to bring ideas to life.
 <br />
 https://carlsaginsin.vercel.app/
