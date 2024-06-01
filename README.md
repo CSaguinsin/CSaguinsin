@@ -1,7 +1,7 @@
-# Hi there 👋 I'm Carl Saguinsin, A Full Stack Web Developer & UI Designer
-A passionate Full Stack Web Developer currently working at PocketDevs. With a keen interest in crafting beautiful and functional web experiences, I thrive on utilizing a diverse range of technologies to bring ideas to life.
+# Hi there 👋 
+I'm Carl Saguinsin, A Full Stack Web Developer, Co-Founder of Kaizen Tech Solutions and currently working at PocketDevs. With a keen interest in crafting beautiful and functional web experiences, I thrive on utilizing a diverse range of technologies to bring ideas to life.
 <br />
-https://carlsaginsin.vercel.app/
+https://kaizen-tech-solutions.vercel.app/
 <br />
 ## Tech Stack and Tools💻
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -23,25 +23,7 @@ https://carlsaginsin.vercel.app/
 <br/>
 
 ## About 📑
-As a Full Stack Web Developer, I excel in both frontend and backend development. Here's what I bring to the table:
-<br />
-<br />
-**Frontend Mastery**: I specialize in crafting responsive and intuitive user interfaces using HTML, CSS, and JavaScript. I'm proficient in modern frontend frameworks like React and Next.js, ensuring seamless user experiences across devices.
-
-**Styling Expertise**: Whether it's custom styling with CSS, rapid prototyping with Tailwind CSS, or leveraging pre-built components with Bootstrap, I ensure that every project looks polished and professional.
-
-**Backend Brilliance**: I have a strong command of backend technologies such as Laravel and Node.js, enabling me to build robust server-side logic, RESTful APIs, and database integration to power dynamic web applications.
-
-**Database Management**: From relational databases like MySQL to real-time data storage with Firebase, I'm adept at designing, querying, and optimizing databases to efficiently manage and retrieve data.
-
-**Continuous Improvement**: I'm committed to staying updated with the latest industry trends and best practices. Whether it's adopting new technologies or refining existing skills, I strive for continuous learning and improvement.
-
-## My Approach ✔️
-**Problem-Solving Mindset**: I approach every project with a problem-solving mindset, seeking innovative solutions to overcome challenges and deliver optimal results.
-
-**Collaborative Spirit**: I thrive in collaborative environments, leveraging effective communication and teamwork to drive projects forward and achieve shared goals.
-
-**Attention to Detail**: I pay meticulous attention to detail, ensuring that every aspect of a project is meticulously crafted and thoroughly tested for quality assurance.
+As a Full Stack Developer specializing in the TALL Stack, I excel in both frontend and backend development. I craft responsive, intuitive user interfaces with Tailwind CSS and Alpine.js, ensuring seamless user experiences. On the backend, I leverage Laravel and Livewire to build robust server-side logic and dynamic applications. My expertise includes designing and optimizing databases with MySQL. Committed to continuous improvement, I stay updated with industry trends and best practices. My approach combines a problem-solving mindset, effective communication and teamwork, and meticulous attention to detail to ensure every project is crafted and tested thoroughly.
 <br/>
 <br/>
 ## Let's Connect 🤟
