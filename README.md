@@ -1,7 +1,7 @@
 # Hi there 👋 
-I'm Carl Saguinsin, A Full Stack Web Developer, Co-Founder of Kaizen Tech Solutions and currently working at PocketDevs. With a keen interest in crafting beautiful and functional web experiences, I thrive on utilizing a diverse range of technologies to bring ideas to life.
+I'm Carl Saguinsin, a full stack web developer based in 1700 🇵🇭. Currently working at [PocketDevs](https://www.pocketdevs.ph/).
 <br />
-https://kaizen-tech-solutions.vercel.app/
+Co-Founder at [Kaizen Tech Solutions](https://kaizen-tech-solutions.vercel.app/)
 <br />
 ## Tech Stack and Tools💻
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
