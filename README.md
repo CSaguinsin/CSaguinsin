@@ -1,7 +1,7 @@
 # Hi there 👋 
-I'm Carl Saguinsin, a full stack web developer based in 1700 🇵🇭. Currently working at [PocketDevs](https://www.pocketdevs.ph/).
+I'm Carl Saguinsin, a full stack developer based in 1700 🇵🇭.
 <br />
-Co-Founder at [Kaizen Tech Solutions](https://kaizen-tech-solutions.vercel.app/)
+[PocketDevs](https://www.pocketdevs.ph/) Full stack developer & Co-Founder at [Kaizen Tech Solutions](https://kaizen-tech-solutions.vercel.app/)
 <br />
 ## Tech Stack and Tools💻
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
