@@ -27,7 +27,7 @@ As a Full Stack Developer specializing in the TALL Stack, I excel in both fronte
 <br/>
 <br/>
 ## Let's Connect 🤟
-
+<br />
 📧 Open for works!: saguinsincarl8@gmail.com
 <br />
 📱 Give me a call: +639156716478
