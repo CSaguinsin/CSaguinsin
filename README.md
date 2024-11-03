@@ -1,1 +1,1 @@
-artisan 👻 // ready player one [carlsaginsin.io](https://carlsaginsin.vercel.app/)
+artisan404 👻 // [@carlsaginsin.io](https://carlsaginsin.vercel.app/)
