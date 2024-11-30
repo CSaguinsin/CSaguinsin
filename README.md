@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/carl-saginsin-30358928a//)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://carlsaginsin.vercel.app/)](https://carlsaginsin.vercel.app/)
 
-- 💻  Software Engineer / Chief Technology Officer 
+- 💻 Software Engineer at [QVantage](https://www.linkedin.com/company/qvantage/) / Chief Technology Officer at [Craftora](https://www.linkedin.com/posts/kmc-solutions-inc_kmc-hackathon-2024-winners-activity-7255503284164075520-aT27?utm_source=share&utm_medium=member_desktop)
 - 📫 How to reach me: saguinsincarl8@gmail.com
 
 
