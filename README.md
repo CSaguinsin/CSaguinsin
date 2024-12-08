@@ -4,12 +4,13 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/carl-saginsin-30358928a//)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://carlsaginsin.vercel.app/)](https://carlsaginsin.vercel.app/)
+### 🖥 👨🏼‍💻 💼 Work Experinces
+- 👨🏼‍💻 Co-Founder & Chief Technology Officer at [Craftora](https://www.craftora.tech/)
+- 💻 Software Engineer at [QVantage](https://www.linkedin.com/company/qvantage/)
+- 🎓 Former Full Stack Web Developer Intern at [PocketDevs](https://www.pocketdevs.ph/)
 
-- 💻 Software Engineer at [QVantage](https://www.linkedin.com/company/qvantage/) / Chief Technology Officer at [Craftora](https://www.craftora.tech/)
-- 📫 How to reach me: saguinsincarl8@gmail.com
-
-
-
+### 📫 How to reach me
+- saguinsincarl8@gmail.com
 
 ### 🖥 Skills
 
