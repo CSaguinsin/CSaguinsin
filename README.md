@@ -8,6 +8,7 @@
 - 👨🏼‍💻 Co-Founder & Chief Technology Officer at [Craftora](https://www.craftora.tech/)
 - 💻 Software Engineer at [QVantage](https://www.linkedin.com/company/qvantage/)
 - 🎓 Former Full Stack Web Developer Intern at [PocketDevs](https://www.pocketdevs.ph/)
+- 🌏 Freelance Web Developer at [Carl Saginsin](https://carlsaginsin.vercel.app/)
 
 ### 📫 How to reach me
 - saguinsincarl8@gmail.com
