@@ -1,4 +1,5 @@
-enjoying the simulation // 
+In the void, creating the undefined. 🌌
+
 
 
 
