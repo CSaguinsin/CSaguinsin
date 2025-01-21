@@ -1,4 +1,4 @@
-In the void, creating the undefined. 🌌
+In the void 🌌
 
 
 
