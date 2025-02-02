@@ -4,6 +4,7 @@
 
 ### 👨‍💻
 - 🖥️ Portfolio: [www.carlsaginsin.tech](https://www.carlsaginsin.tech/)
+- 👨🏼‍💻 CTO at [Craftora](https://github.com/Craftora)
 - 📫 email me at saguinsincarl8@gmail.com or [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/carl-saginsin-30358928a/)
 
 ---
