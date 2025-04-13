@@ -3,10 +3,10 @@
   # Carl Saginsin
 
 ## 💫 About Me
-- 🔭 Co-Founder & Chief Technology Officer at Craftora
-- 💻 Former Software Engineer at QVantage Singapore
-- 👦 Former Full Stack Web Developer at PocketDevs
-- 🌱 Currently working on freelance and contract projects
+- 🔭 Co-Founder & Chief Technology Officer at [Craftora](https://www.craftora.tech/)
+- 💻 Former Software Engineer at [QVantage Singapore](https://www.linkedin.com/company/qvantage/)
+- 👦 Former Full Stack Web Developer at [PocketDevs](https://www.pocketdevs.ph/)
+- 🌱 Currently working on freelance and contract projects, Check my [portfolio](https://www.carlsaginsin.tech/)
 - ⚡ Interested in Artificial Intelligence, Machine Learning, Deep Learning, Web Development, and Mobile Development
 
 <img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
