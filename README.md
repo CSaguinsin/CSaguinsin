@@ -86,7 +86,7 @@ I'm always interested in collaborating on innovative projects or discussing tech
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-carlsaginsin.tech-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.carlsaginsin.tech/)
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlsaginsin/)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carl-saginsin-30358928a/)
 [![GitHub](https://img.shields.io/badge/Follow_My_Work-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlsaginsin)
   
 </div>
