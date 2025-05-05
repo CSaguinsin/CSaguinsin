@@ -5,8 +5,8 @@
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-carlsaginsin.tech-0077B5?style=for-the-badge&logo=firefox&logoColor=white)](https://www.carlsaginsin.tech/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlsaginsin/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@carlsaginsin.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carl-saginsin-30358928a/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saguinsincarl8@gmail.com)
   
 </div>
 
