@@ -26,13 +26,16 @@ const carl = {
 ## 🚀 Professional Journey
 
 - **Co-Founder & CTO** at [Craftora](https://www.craftora.tech/) *(Current)*  
-  *Leading technical strategy and development of innovative digital products*
+  *Leading technical strategy and development of innovative digital products, solving real-world challenges with cutting-edge software solutions. At Craftora, we believe in harnessing the power of technology to make a tangible difference in people's lives*
 
-- **Software Engineer** at [QVantage Singapore](https://www.linkedin.com/company/qvantage/)  
-  *Developed enterprise solutions with focus on performance and scalability*
+- **Software Engineer** at [QVantage Singapore](https://www.linkedin.com/company/qvantage/) *(Aug 2024 - Mar 2025)*  
+  *Developed advanced AI-driven bots using python and build RESTful APIs, with a focus on automating complex tasks, delivering exceptional customer support, and enhancing user engagement. Experienced in designing and developing innovative software solutions that streamline operations, improve efficiency, and provide scalable and intuitive user interactions*
 
-- **Full Stack Developer** at [PocketDevs](https://www.pocketdevs.ph/)  
-  *Built responsive web applications and integrated RESTful APIs*
+- **Full Stack Developer Intern** at [PocketDevs](https://www.pocketdevs.ph/) *(Feb 2024 - Aug 2024)*   
+  *Developed and Designed a variety of Full Stack Web Applications, mastering best practices in software development and UI/UX design to deliver robust, scalable, and user-friendly applications. This involved working with modern Frameworks and technologies, ensuring High performance and Responsiveness.*
+
+- **Freelance Web Developer** [My Portfolio](https://www.carlsaginsin.tech/)  *(Jan 2022 - Jan 2024)*   
+  *As a Freelance Web Developer, I have been actively engaged in various projects, specializing in both frontend and full stack development. My work primarily involves using cutting-edge technologies to deliver high-quality web applications.*
 
 
 ## 🛠️ Technical Arsenal
