@@ -25,7 +25,10 @@ const carl = {
 
 ## 🚀 Professional Journey
 
-- **Co-Founder & CTO** at [Craftora](https://www.craftora.tech/) *(Current)*  
+- **Lead Software Engineer** at [VONAS](https://www.linkedin.com/company/vonas/) *(May 2025 - Present)*  
+  *Leading technical strategy and development of innovative digital products, solving real-world challenges with cutting-edge software solutions. At Craftora, we believe in harnessing the power of technology to make a tangible difference in people's lives*
+
+- **Co-Founder & CTO** at [Craftora](https://www.craftora.tech/) *(Nov 2024 - Present)*  
   *Leading technical strategy and development of innovative digital products, solving real-world challenges with cutting-edge software solutions. At Craftora, we believe in harnessing the power of technology to make a tangible difference in people's lives*
 
 - **Software Engineer** at [QVantage Singapore](https://www.linkedin.com/company/qvantage/) *(Aug 2024 - Mar 2025)*  
