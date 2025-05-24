@@ -26,7 +26,7 @@ const carl = {
 ## 🚀 Professional Journey
 
 - **Lead Software Engineer** at [VONAS](https://www.linkedin.com/company/vonas/) *(May 2025 - Present)*  
-  *Leading technical strategy and development of innovative digital products, solving real-world challenges with cutting-edge software solutions. At Craftora, we believe in harnessing the power of technology to make a tangible difference in people's lives*
+  *Building 2nd Handshop with VONAS Media—a next-gen resale platform that turns a single photo into a full product listing across multiple channels. We're helping second-hand retailers sell faster by eliminating manual entry, with a goal to onboard 250+ shops and process 500k+ items by May 2026*
 
 - **Co-Founder & CTO** at [Craftora](https://www.craftora.tech/) *(Nov 2024 - Present)*  
   *Leading technical strategy and development of innovative digital products, solving real-world challenges with cutting-edge software solutions. At Craftora, we believe in harnessing the power of technology to make a tangible difference in people's lives*
