@@ -1,6 +1,6 @@
 
 
-# Carl Saginsin | Software Engineer & AI Enthusiast
+# Carl Saginsin | Software Engineer
 
 <div align="center">
   
