@@ -4,6 +4,7 @@
 ```javascript
 const carlSaginsin = {
   role: "CTO & Full Stack Software Engineer",
+  techStack: ["ReactJs", "NextJS", "NodeJs", "ExpressJs", "Prisma", "Supabase", "MySQL", "PostgreSQL"],
   workExperience: "Craftora", "VONAS Media", "QVantage Singapore", "PocketDevs",
   skills: ["Full stack web development", "UI/UX Design", "Mobile Development", "AI Integration"],
   passions: ["Building scalable applications", "AI integration", "Clean code architecture"],
