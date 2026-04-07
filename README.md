@@ -53,8 +53,8 @@ const carl = {
   },
 
   experience: [
-    "AI Engineer @ Hello There Collective",
     "Senior Software Engineer @ Keep it Simple OS",
+    "AI Engineer @ Hello There Collective",
     "Founder @ BuildFast Labs"
   ],
 
