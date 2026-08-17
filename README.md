@@ -1,2 +1,2 @@
-Founder / CEO / CTO @BuildFastLabs
+Founder, entrepreneur, engineer. 
 
