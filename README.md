@@ -1,2 +1,2 @@
-Founder, entrepreneur, engineer. 
+https://www.carlsaginsin.tech/
 
